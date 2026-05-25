@@ -48,12 +48,27 @@ Gosto de transformar ideias soltas em produtos apresentáveis: do visual ao flux
 
 ## Projetos em destaque
 
-### Restaurante Web — Sistema de gestão para restaurantes
-Plataforma full stack com cardápio digital, pedidos no local, comandas, delivery, painel administrativo, área do cliente e fluxo para entregadores.
+### Ecossistema Restaurante Web
+Uma linha de projetos voltada para digitalização de restaurantes, com cardápio digital, pedidos, comandas, delivery, painel administrativo e gestão operacional. Em vez de tratar como um único projeto, separei como versões/evoluções, porque isso mostra algo mais valioso: processo, iteração e refinamento.
+
+#### Restaurante Automatizado
+Versão base/full stack do sistema para restaurante, com foco em cardápio digital, pedidos no local, comandas, delivery, painel administrativo, área do cliente e fluxo para entregadores.
 
 **Tecnologias:** Next.js, Tailwind CSS, MongoDB, JWT, API Routes  
-**Demonstração:** https://restaurante-web-filiais.vercel.app/  
 **Repositório:** https://github.com/Ke0nXD/Restaurante-Automatizado
+
+#### Restaurante Web Funcional
+Versão funcional voltada para validação prática da experiência do restaurante, com fluxo mais direto para demonstração, testes e uso comercial inicial.
+
+**Tecnologias:** Next.js, Tailwind CSS, MongoDB  
+**Repositório:** https://github.com/Ke0nXD/Restaurante-Web-funcional
+
+#### Restaurante Web Filiais
+Versão mais avançada do sistema, com foco em gerenciamento de múltiplas filiais e evolução da estrutura administrativa.
+
+**Tecnologias:** Next.js, Tailwind CSS, MongoDB  
+**Demonstração:** https://restaurante-web-filiais.vercel.app/  
+**Repositório:** https://github.com/Ke0nXD/Restaurante-Web-Filiais
 
 ---
 
